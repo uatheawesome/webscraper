@@ -1,0 +1,24 @@
+time#
+span#
+CurrentConditions--timestamp--1ybTk#
+
+feels like#
+span#
+TodayDetailsCard--feelsLikeTempValue--2icPt#
+
+tomorow date#
+span#
+Ellipsis--ellipsis--3ADai#
+
+tommorow high temp ? #
+span/div#
+Column--temp--1sO_J Column--verticalStack--28b4K#
+
+tommorow low temp#
+span#
+Column--tempLoValue--18GuJ#
+
+tommorow weather condition#
+svg#
+Column--weatherIcon--2w_Rf Icon--icon--2aW0V Icon--fullTheme--3Fc-5#
+
